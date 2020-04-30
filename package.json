@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-sorted-indexes-of",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Find all indexes at which an array element exists, by binary search.",
    "main": "dist/arr-sorted-indexes-of.umd.js",
    "module": "dist/arr-sorted-indexes-of.esm.js",
@@ -47,13 +47,13 @@
    "license": "MIT",
    "dependencies": {
       "@bemoje/arr-sort-comparator": "^1.0.4",
-      "@bemoje/arr-sorted-index-of": "^1.0.0",
+      "@bemoje/arr-sorted-index-of": "^1.0.1",
       "@bemoje/assert-args": "^1.0.0",
       "@bemoje/assert-type": "^1.0.0"
    },
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
